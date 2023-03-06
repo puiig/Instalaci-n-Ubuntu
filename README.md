@@ -12,6 +12,6 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 https://www.hostinger.es/tutoriales/que-es-ubuntu
 * "¿Qué es Ubuntu? Una guía rápida para principiantes". Hostinger tutoriales. Disponible en: https://www.hostinger.es/tutoriales/que-es-ubuntu (Accedido: March 6, 2023).
 
-* "Licencia de software". Wikipedia. disponible en: https://es.wikipedia.org/wiki/Ubuntu.(Accedido: Marzo 6, 2023).
+* "Licencia de software". Wikipedia. disponible en: https://es.wikipedia.org/wiki/Ubuntu. (Accedido: Marzo 6, 2023).
 
-https://ubuntu.com/about
+* "The history of Ubuntu". canonical. Disponible en: https://ubuntu.com/about. (Accedido: Marzo 6, 2023).
