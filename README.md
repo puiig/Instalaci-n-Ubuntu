@@ -8,6 +8,8 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ## DOCUMENTACIÓN DEL PROCESO DE INSTALACIÓN DE UBUNTU
 
+#### Configuración de VirtualBox
+#### 
 
 ## REFERENCIAS
 
