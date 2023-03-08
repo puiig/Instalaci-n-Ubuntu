@@ -9,6 +9,9 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 ## DOCUMENTACIÓN DEL PROCESO DE INSTALACIÓN DE UBUNTU
 
 #### Configuración de VirtualBox
+
+(añadir nuevas caps, hay que hacerlas de cuando se crea Ubuntu)
+
 #### 
 
 ## REFERENCIAS
