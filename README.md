@@ -8,7 +8,12 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ## DOCUMENTACIÓN DEL PROCESO DE INSTALACIÓN DE UBUNTU
 
+#### Decargamos VirtualBox
+
 #### Configuración de VirtualBox
+
+Arrancamos VirtualBox y hacemos click en "Nueva":
+
 
 []!()
 (añadir nuevas caps, hay que hacerlas de cuando se crea Ubuntu)
