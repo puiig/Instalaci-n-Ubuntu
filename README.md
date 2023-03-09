@@ -12,13 +12,37 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 #### Configuración de VirtualBox
 
-Arrancamos VirtualBox y hacemos click en "Nueva":
+1. Arrancamos VirtualBox y hacemos click en "Nueva":
+
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/configuraci%C3%B3n%201%20instalaci%C3%B3n.png)
+
+2. Escribimos el nombre de la máquina virtual ,en nuestro caso "Ubuntu". Vemos que se seleciona automáticamente el tipod e sistema "Linux" y la versión "Ubuntu 64-bit".
+
+3. Configuramos el tamaño de memória para la maquina virtual. Para Ubuntu 22.04 se recomienda 4GB
+
+4. Creamos un nuevo disco duro virtual
+
+5. Elegimos el tipo de dico duro de tipo vdi (virtual disk image)
+
+6. Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio.
+
+7. Configuramos el tamaño del disco duro virtual de 25 GB, ya quees el recomendado para la instalación de "Ubuntu 22.04".
+
+8. Ya tenemos creda la maquina virtual, solo nos falta introducir el disco virtual del sistema operativo.
+
+9. No descargamos previamente elarchivo ISO de la distribucion "Linux" que quereamos, en nuestro caso hemos elegido la distribucion [ubuntu](https://ubuntu.com/download), en su version 22.04.
+
+10. "Montamos" la ISO en el lector virtal de la maquina virtal. para ello hacemos "click" en "Configurar" y vamos a "Almcenamiento".
+
+11. Hacemos "click" en "Vacio" dentro del "Árbol controlador IDE" y elegimos el archivo ISO desde el icono de la unidad óptica.
+
+12. Por último, le damos a "Iniciar" en la maquiina virtual y vemos como empieza a arrancar.
 
 
-[]!()
-(añadir nuevas caps, hay que hacerlas de cuando se crea Ubuntu)
+#### Instalación de Ubuntu
 
-#### 
+1. Vemos la pantalla de Grub y elegimos la opción "Try or install Ubuntu" y le damos a la tecla "enter".
+
 
 ## REFERENCIAS
 
