@@ -18,11 +18,19 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 2. Escribimos el nombre de la máquina virtual ,en nuestro caso "Ubuntu". Vemos que se seleciona automáticamente el tipod e sistema "Linux" y la versión "Ubuntu 64-bit".
 
+![](
+
 3. Configuramos el tamaño de memória para la maquina virtual. Para Ubuntu 22.04 se recomienda 4GB
+
+![](
 
 4. Creamos un nuevo disco duro virtual
 
+![](
+
 5. Elegimos el tipo de dico duro de tipo vdi (virtual disk image)
+
+![](
 
 6. Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio.
 
@@ -34,14 +42,22 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 10. "Montamos" la ISO en el lector virtal de la maquina virtal. para ello hacemos "click" en "Configurar" y vamos a "Almcenamiento".
 
-11. Hacemos "click" en "Vacio" dentro del "Árbol controlador IDE" y elegimos el archivo ISO desde el icono de la unidad óptica.
+11. Antes de arrancar, configuramos a memoria de la targeta de vídeo al máximo posible, dentro de "Configuraión" --> "Pantalla".
 
-12. Por último, le damos a "Iniciar" en la maquiina virtual y vemos como empieza a arrancar.
+12. Hacemos "click" en "Vacio" dentro del "Árbol controlador IDE" y elegimos el archivo ISO desde el icono de la unidad óptica.
+
+13. Por último, le damos a "Iniciar" en la maquiina virtual y vemos como empieza a arrancar.
 
 
 #### Instalación de Ubuntu
 
 1. Vemos la pantalla de Grub y elegimos la opción "Try or install Ubuntu" y le damos a la tecla "enter".
+
+2. Elegimos el idioma y hacempos click en unstalar ubunto
+
+3. elegimos la distribuycion del teclado
+
+4. Elegimos el borrare dicso y que se instle ubuntu como unico sistema operativo
 
 
 ## REFERENCIAS
