@@ -57,7 +57,11 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 3. elegimos la distribuycion del teclado
 
+5. elegimos el tipo de instalacion y si actualizaremos o instalaremos software de terceros
+
 4. Elegimos el borrare dicso y que se instle ubuntu como unico sistema operativo
+
+
 
 
 ## REFERENCIAS
