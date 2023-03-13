@@ -22,7 +22,7 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 3. Configuramos el tamaño de memória para la maquina virtual. Para Ubuntu 22.04 se recomienda 4GB
 
-![](
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/tergeta%20video.png)
 
 4. Creamos un nuevo disco duro virtual
 
@@ -38,29 +38,24 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 7. Configuramos el tamaño del disco duro virtual de 25 GB, ya quees el recomendado para la instalación de "Ubuntu 22.04".
 
-![](
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/25%20gb.png)
 
 8. No descargamos  el archivo ISO de la distribucion "Linux" que quereamos, en nuestro caso hemos elegido la distribucion [ubuntu](https://ubuntu.com/download), en su version 22.04.
 
-![](/home/leimar/VirtualBox VMs/Ubuntu/Ubuntu/iso.png)
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/iso.png)
+
 
 9. Ya tenemos creda la maquina virtual, solo nos falta introducir el disco virtual del sistema operativo."Montamos" la ISO en el lector virtal de la maquina virtal. para ello hacemos "click" en "Configurar" y vamos a "Almcenamiento".
 
-
-![](
-
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/disco%20iso.png)
 
 10. Antes de arrancar, configuramos a memoria de la targeta de vídeo al máximo posible, dentro de "Configuraión" --> "Pantalla".
 
-![](
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/tergeta%20video.png)
 
-11. Hacemos "click" en "Vacio" dentro del "Árbol controlador IDE" y elegimos el archivo ISO desde el icono de la unidad óptica.
+11. Por último, le damos a "Iniciar" en la maquina virtual y vemos como empieza a arrancar.
 
-![](
-
-12. Por último, le damos a "Iniciar" en la maquina virtual y vemos como empieza a arrancar.
-
-![](
+![]()
 
 #### Instalación de Ubuntu
 
@@ -72,17 +67,19 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/Elecci%C3%B3n.png)
 
-3. elegimos la distribuycion del teclado
+3. Elegimos la distribuycion del teclado
 
 ![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/teclado.png)
 
-4. Seleccionamos nuestra region
+4. Seleccionamos nuestra región
 
-5. elegimos el tipo de instalacion y si actualizaremos o instalaremos software de terceros
+![](/home/leimar/VirtualBox VMs/Ubuntu/Ubuntu/tergeta video.png)
+
+5. Elegimos el tipo de instalacion y si actualizaremos o instalaremos software de terceros
 
 ![](https://github.com/puiig/Instalaci-nUbuntu)
 
-6. Elegimos el borrare dicso y que se instle ubuntu como unico sistema operativo
+6. Elegimos el borrar el disco y que se instle ubuntu como unico sistema operativo
 
 ![](https://github.com/puiig/Instalaci-nUbuntu)
 
