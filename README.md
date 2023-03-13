@@ -26,43 +26,80 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 4. Creamos un nuevo disco duro virtual
 
-![](
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/configuraci%C3%B3n%202.png)
 
 5. Elegimos el tipo de dico duro de tipo vdi (virtual disk image)
 
-![](
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/configiuraci%C3%B3n%203.png)
 
 6. Le indicamos que el fichero del disco duro virtual crezca dinámicamente, a medida que necesitemos más espacio.
 
+![](
+
 7. Configuramos el tamaño del disco duro virtual de 25 GB, ya quees el recomendado para la instalación de "Ubuntu 22.04".
+
+![](
 
 8. Ya tenemos creda la maquina virtual, solo nos falta introducir el disco virtual del sistema operativo.
 
+![](
+
 9. No descargamos previamente elarchivo ISO de la distribucion "Linux" que quereamos, en nuestro caso hemos elegido la distribucion [ubuntu](https://ubuntu.com/download), en su version 22.04.
+
+![](
 
 10. "Montamos" la ISO en el lector virtal de la maquina virtal. para ello hacemos "click" en "Configurar" y vamos a "Almcenamiento".
 
+![](
+
 11. Antes de arrancar, configuramos a memoria de la targeta de vídeo al máximo posible, dentro de "Configuraión" --> "Pantalla".
+
+![](
 
 12. Hacemos "click" en "Vacio" dentro del "Árbol controlador IDE" y elegimos el archivo ISO desde el icono de la unidad óptica.
 
+![](
+
 13. Por último, le damos a "Iniciar" en la maquiina virtual y vemos como empieza a arrancar.
 
+![](
 
 #### Instalación de Ubuntu
 
 1. Vemos la pantalla de Grub y elegimos la opción "Try or install Ubuntu" y le damos a la tecla "enter".
 
-2. Elegimos el idioma y hacempos click en unstalar ubunto
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/VirtualBox_Ubuntu%20inicio.png)
+
+2. Elegimos el idioma y hacempos click en unstalar Ubuntu
+
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/Elecci%C3%B3n.png)
 
 3. elegimos la distribuycion del teclado
 
+![](https://github.com/puiig/Instalaci-nUbuntu/blob/main/teclado.png)
+
+4. Seleccionamos nuestra region
+
 5. elegimos el tipo de instalacion y si actualizaremos o instalaremos software de terceros
 
-4. Elegimos el borrare dicso y que se instle ubuntu como unico sistema operativo
+![](https://github.com/puiig/Instalaci-nUbuntu)
+
+6. Elegimos el borrare dicso y que se instle ubuntu como unico sistema operativo
+
+![](https://github.com/puiig/Instalaci-nUbuntu)
+
+7.
+
+![](
+
+8.
 
 
+![](
 
+9.
+
+![](
 
 ## REFERENCIAS
 
